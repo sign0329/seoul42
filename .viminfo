@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1631103806,,"wq!"
 :wq
 |2,0,1631099346,,"wq"
 :-q
@@ -30,230 +32,269 @@
 |3,0,26,0,1,0,1631075996,"€kb€kb€kbe€kb€kb€ýa;€ýa€ýa€ýa;d sa;€kb€kb€kb€kb€kb€kb€ýa;€ýa€ýa:w"
 
 # File marks:
-'0  2  0  ~/ex05/git_commit.sh
-|4,48,2,0,1631099346,"~/ex05/git_commit.sh"
-'1  6  2  ~/.git/MERGE_MSG
-|4,49,6,2,1631096906,"~/.git/MERGE_MSG"
-'2  1  0  ~/ex01/tsetShe1100
-|4,50,1,0,1631083802,"~/ex01/tsetShe1100"
-'3  5  0  ~/ex01/testShe1100
-|4,51,5,0,1631076868,"~/ex01/testShe1100"
-'4  4  4  ~/ex01/testShe1100
-|4,52,4,4,1631076828,"~/ex01/testShe1100"
-'5  4  4  ~/ex01/testShe1100
-|4,53,4,4,1631076828,"~/ex01/testShe1100"
-'6  5  0  ~/ex01/testShe1100
-|4,54,5,0,1631076752,"~/ex01/testShe1100"
-'7  5  0  ~/ex01/testShe1100
-|4,55,5,0,1631076752,"~/ex01/testShe1100"
+'0  3  0  ~/testfive
+|4,48,3,0,1631103806,"~/testfive"
+'1  3  0  ~/testfour.sh
+|4,49,3,0,1631103678,"~/testfour.sh"
+'2  3  0  ~/testthree.sh
+|4,50,3,0,1631103575,"~/testthree.sh"
+'3  2  0  ~/testtwo.sh
+|4,51,2,0,1631103416,"~/testtwo.sh"
+'4  2  0  ~/testone.sh
+|4,52,2,0,1631099809,"~/testone.sh"
+'5  2  0  ~/ex05/git_commit.sh
+|4,53,2,0,1631099346,"~/ex05/git_commit.sh"
+'6  6  2  ~/.git/MERGE_MSG
+|4,54,6,2,1631096906,"~/.git/MERGE_MSG"
+'7  1  0  ~/ex01/tsetShe1100
+|4,55,1,0,1631083802,"~/ex01/tsetShe1100"
 '8  5  0  ~/ex01/testShe1100
-|4,56,5,0,1631076752,"~/ex01/testShe1100"
-'9  1  0  ~/ex01/z
-|4,57,1,0,1631076204,"~/ex01/z"
+|4,56,5,0,1631076868,"~/ex01/testShe1100"
+'9  4  4  ~/ex01/testShe1100
+|4,57,4,4,1631076828,"~/ex01/testShe1100"
 
 # Jumplist (newest first):
+-'  3  0  ~/testfive
+|4,39,3,0,1631103806,"~/testfive"
+-'  1  0  ~/testfive
+|4,39,1,0,1631103691,"~/testfive"
+-'  3  0  ~/testfour.sh
+|4,39,3,0,1631103678,"~/testfour.sh"
+-'  3  0  ~/testfour.sh
+|4,39,3,0,1631103678,"~/testfour.sh"
+-'  1  0  ~/testfour.sh
+|4,39,1,0,1631103609,"~/testfour.sh"
+-'  1  0  ~/testfour.sh
+|4,39,1,0,1631103609,"~/testfour.sh"
+-'  3  0  ~/testthree.sh
+|4,39,3,0,1631103575,"~/testthree.sh"
+-'  3  0  ~/testthree.sh
+|4,39,3,0,1631103575,"~/testthree.sh"
+-'  3  0  ~/testthree.sh
+|4,39,3,0,1631103575,"~/testthree.sh"
+-'  3  0  ~/testthree.sh
+|4,39,3,0,1631103575,"~/testthree.sh"
+-'  1  0  ~/testthree.sh
+|4,39,1,0,1631103447,"~/testthree.sh"
+-'  1  0  ~/testthree.sh
+|4,39,1,0,1631103447,"~/testthree.sh"
+-'  1  0  ~/testthree.sh
+|4,39,1,0,1631103447,"~/testthree.sh"
+-'  1  0  ~/testthree.sh
+|4,39,1,0,1631103447,"~/testthree.sh"
+-'  2  0  ~/testtwo.sh
+|4,39,2,0,1631103416,"~/testtwo.sh"
+-'  2  0  ~/testtwo.sh
+|4,39,2,0,1631103416,"~/testtwo.sh"
+-'  2  0  ~/testtwo.sh
+|4,39,2,0,1631103416,"~/testtwo.sh"
+-'  2  0  ~/testtwo.sh
+|4,39,2,0,1631103416,"~/testtwo.sh"
+-'  2  0  ~/testtwo.sh
+|4,39,2,0,1631103416,"~/testtwo.sh"
+-'  2  0  ~/testtwo.sh
+|4,39,2,0,1631103416,"~/testtwo.sh"
+-'  2  0  ~/testtwo.sh
+|4,39,2,0,1631103416,"~/testtwo.sh"
+-'  2  0  ~/testtwo.sh
+|4,39,2,0,1631103416,"~/testtwo.sh"
+-'  1  0  ~/testtwo.sh
+|4,39,1,0,1631103322,"~/testtwo.sh"
+-'  1  0  ~/testtwo.sh
+|4,39,1,0,1631103322,"~/testtwo.sh"
+-'  1  0  ~/testtwo.sh
+|4,39,1,0,1631103322,"~/testtwo.sh"
+-'  1  0  ~/testtwo.sh
+|4,39,1,0,1631103322,"~/testtwo.sh"
+-'  1  0  ~/testtwo.sh
+|4,39,1,0,1631103322,"~/testtwo.sh"
+-'  1  0  ~/testtwo.sh
+|4,39,1,0,1631103322,"~/testtwo.sh"
+-'  1  0  ~/testtwo.sh
+|4,39,1,0,1631103322,"~/testtwo.sh"
+-'  1  0  ~/testtwo.sh
+|4,39,1,0,1631103322,"~/testtwo.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  2  0  ~/testone.sh
+|4,39,2,0,1631099809,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  1  0  ~/testone.sh
+|4,39,1,0,1631099695,"~/testone.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
+-'  2  0  ~/ex05/git_commit.sh
+|4,39,2,0,1631099346,"~/ex05/git_commit.sh"
 -'  2  0  ~/ex05/git_commit.sh
 |4,39,2,0,1631099346,"~/ex05/git_commit.sh"
 -'  1  0  ~/ex05/git_commit.sh
 |4,39,1,0,1631099239,"~/ex05/git_commit.sh"
--'  6  2  ~/.git/MERGE_MSG
-|4,39,6,2,1631096906,"~/.git/MERGE_MSG"
--'  6  2  ~/.git/MERGE_MSG
-|4,39,6,2,1631096906,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1631096850,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1631096850,"~/.git/MERGE_MSG"
--'  1  0  ~/ex01/tsetShe1100
-|4,39,1,0,1631083802,"~/ex01/tsetShe1100"
--'  1  0  ~/ex01/tsetShe1100
-|4,39,1,0,1631083802,"~/ex01/tsetShe1100"
--'  1  0  ~/ex01/tsetShe1100
-|4,39,1,0,1631083802,"~/ex01/tsetShe1100"
--'  1  0  ~/ex01/tsetShe1100
-|4,39,1,0,1631083802,"~/ex01/tsetShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076868,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076868,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076868,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076868,"~/ex01/testShe1100"
--'  4  4  ~/ex01/testShe1100
-|4,39,4,4,1631076859,"~/ex01/testShe1100"
--'  4  4  ~/ex01/testShe1100
-|4,39,4,4,1631076859,"~/ex01/testShe1100"
--'  4  4  ~/ex01/testShe1100
-|4,39,4,4,1631076859,"~/ex01/testShe1100"
--'  4  4  ~/ex01/testShe1100
-|4,39,4,4,1631076859,"~/ex01/testShe1100"
--'  4  4  ~/ex01/testShe1100
-|4,39,4,4,1631076828,"~/ex01/testShe1100"
--'  4  4  ~/ex01/testShe1100
-|4,39,4,4,1631076828,"~/ex01/testShe1100"
--'  4  4  ~/ex01/testShe1100
-|4,39,4,4,1631076828,"~/ex01/testShe1100"
--'  4  4  ~/ex01/testShe1100
-|4,39,4,4,1631076828,"~/ex01/testShe1100"
--'  4  4  ~/ex01/testShe1100
-|4,39,4,4,1631076828,"~/ex01/testShe1100"
--'  4  4  ~/ex01/testShe1100
-|4,39,4,4,1631076828,"~/ex01/testShe1100"
--'  4  4  ~/ex01/testShe1100
-|4,39,4,4,1631076828,"~/ex01/testShe1100"
--'  4  4  ~/ex01/testShe1100
-|4,39,4,4,1631076828,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076805,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076805,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076805,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076805,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076805,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076805,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076805,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076805,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076752,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076752,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076752,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076752,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076752,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076752,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076752,"~/ex01/testShe1100"
--'  5  0  ~/ex01/testShe1100
-|4,39,5,0,1631076752,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/testShe1100
-|4,39,1,0,1631076677,"~/ex01/testShe1100"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
--'  1  0  ~/ex01/z
-|4,39,1,0,1631076204,"~/ex01/z"
+-'  1  0  ~/ex05/git_commit.sh
+|4,39,1,0,1631099239,"~/ex05/git_commit.sh"
+-'  1  0  ~/ex05/git_commit.sh
+|4,39,1,0,1631099239,"~/ex05/git_commit.sh"
+-'  1  0  ~/ex05/git_commit.sh
+|4,39,1,0,1631099239,"~/ex05/git_commit.sh"
+-'  1  0  ~/ex05/git_commit.sh
+|4,39,1,0,1631099239,"~/ex05/git_commit.sh"
+-'  1  0  ~/ex05/git_commit.sh
+|4,39,1,0,1631099239,"~/ex05/git_commit.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/testfive
+	*	1631103802	0
+	"	3	0
+	^	3	0
+	.	2	55
+	+	1	0
+	+	2	55
+
+> ~/testfour.sh
+	*	1631103671	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	3	0
+
+> ~/testthree.sh
+	*	1631103572	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	2	54
+	+	3	0
+
+> ~/testtwo.sh
+	*	1631103411	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	1	55
+	+	2	0
+
+> ~/testone.sh
+	*	1631099806	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	1	56
+	+	2	0
 
 > ~/ex05/git_commit.sh
 	*	1631099344	0
